@@ -2,3 +2,9 @@ haciendo cambios en el texto
 nueva linea de codigo
 nueva linea de codigo 2
 nueva linea codigo 3
+int x=0;
+while(1)
+{ 
+  print(x)
+
+}
